@@ -1,0 +1,10 @@
+{
+  "description": "Explore a contemporary digital experience that redefines living through architecture, integrating design, sustainability, and human connection.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
