@@ -1,5 +1,7 @@
 {
-  "description": "Explore a contemporary digital experience that redefines living through architecture, integrating design, sustainability, and human connection.",
+  "title": "Lumear — Arquitetura e lugares para viver",
+  "description": "Lumear é uma empresa conceitual de arquitetura, habitação e pesquisa dedicada a conceber, construir e acompanhar lugares para viver.",
+  "language": "pt-BR",
   "robots": {
     "index": false
   },
